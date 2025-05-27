@@ -30,7 +30,9 @@ This project was created as part of the Boot.dev backend developer course. It is
     ```
 
 2. **Build the project:**
+```sh
 - go build
+```
 
 3. **Run the CLI:**
 ```sh
