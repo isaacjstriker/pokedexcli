@@ -6,6 +6,8 @@ A command-line Pokédex application built in Go.
 
 This project was created as part of the Boot.dev backend developer course. It is a CLI tool that allows users to explore Pokémon locations, catch Pokémon, and manage their own Pokédex using data from the [PokeAPI](https://pokeapi.co/).
 
+Just as a side note, it took me a decent amount of time to get this project finished. And I love what I've learned so far on Boot.dev!
+
 ## Features
 
 - Explore Pokémon locations and see which Pokémon can be found there
@@ -41,7 +43,7 @@ This project was created as part of the Boot.dev backend developer course. It is
 
 ## Usage
 
-Once running, use commands like:
+Once running, use these commands to navigate the program:
 
 - help — Show available commands
 - map — List next page of locations
